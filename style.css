@@ -3,6 +3,27 @@ body{
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+
+.banner_header{
+    background-image: url(img/b1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 180px 0;
+}
+.banner_header{
+    padding-left: 60px;
+}
+.banner_header h1{
+    font-size: 40px;
+    color: rgb(221, 221, 221);
+}
+.banner_header p{
+    font-size: 20px;
+    color: rgb(164, 247, 30);
+    font-weight: 400;
+}
+
 #banner{
     height: 780px;;
 }
@@ -135,7 +156,7 @@ body{
 
 
 footer{
-    height: 300px;
+    height:280px;
     background: black;
     color: blanchedalmond;
     text-align: center;
